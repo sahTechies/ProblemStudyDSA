@@ -1,9 +1,9 @@
 # Array-Based Stack Implementation in C
 
 **Institution:** SRM IST TRICHY <br><br>
-**Subject:** Data Structures and Algorithms (DSA)
-**Name:** HEMANT KUMAR SAH
-**Registration Number:** RA2511026050326
+**Subject:** Data Structures and Algorithms (DSA) <br>
+**Name:** HEMANT KUMAR SAH<br>
+**Registration Number:** RA2511026050326<br>
 
 This repository contains an assignment demonstrating a standard contiguous LIFO (Last-In, First-Out) stack implementation in C. For detailed manual traces and step-by-step execution, please refer to the included file named `report.pdf`.
 

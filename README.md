@@ -1,6 +1,6 @@
 # Array-Based Stack Implementation in C
 
-**Institution:** SRM IST TRICHY
+**Institution:** SRM IST TRICHY <br><br>
 **Subject:** Data Structures and Algorithms (DSA)
 **Name:** HEMANT KUMAR SAH
 **Registration Number:** RA2511026050326
